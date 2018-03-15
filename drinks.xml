@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+Drinks
+
+<item drink="alcoholic">
+	<name>Long Island Iced Tea</name>
+	<price>$8.99</price>
+	<ingredients>Vodka, Gin, Tequila, Rum, Triple Sec, Sweet and Sour Mix, Coke </ingredients>
+	<calories>300</calories>
+</item>
